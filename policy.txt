@@ -1,0 +1,27 @@
+Privacy Policy
+
+This Privacy Policy outlines the privacy practices associated with the Application and covers the treatment of personal information collected when you use or access the Application.
+
+Information Collection and Use
+
+Our Application collects certain information to enhance the user experience and enable certain functionality provided by third parties. The information collected includes but is not limited to:
+
+Device Information: Such as the operating system, device ID, and system settings.
+Usage Data: Information related to the use of the Application including crash reports and usage statistics.
+Camera Access: The Application requests camera permissions to enable certain features within the Application.
+Third-Party Services
+
+The Application incorporates third-party services that may collect information used to identify you. The third-party services include:
+
+Google AdMob: Used for displaying advertisements within the Application.
+OneSignal: Utilized for sending notifications and alerts.
+Firebase: Provides various functionalities including analytics and crash reporting.
+The privacy policies of these third-party services govern the collection, use, and disclosure of your information and can be found on their respective websites.
+
+Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at maryjane.apps@gmail.com.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
